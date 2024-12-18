@@ -1,0 +1,3 @@
+What is the capital of France? | A. Paris | B. Berlin | C. Rome | D. Madrid | A
+What is 5 + 7? | A. 10 | B. 11 | C. 12 | D. 13 | C
+Who wrote 'Hamlet'? | A. Dickens | B. Shakespeare | C. Hemingway | D. Twain | B
